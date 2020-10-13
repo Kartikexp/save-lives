@@ -36,13 +36,13 @@ This indicate that we may meet someone troubled with injuries.
 
 According to ROSPA survey, when people faced with these emergency situations, 44% panicked and 46% simply didn’t know what to do.
 
-#### In the survey’s most compelling statistic, 97% of young people, believed first aid education would improve their confidence, skills and willingness to act in a crisis.
+## In the survey’s most compelling statistic, 97% of young people, believed first aid education would improve their confidence, skills and willingness to act in a crisis.
 
 Therefore, young people and kids should learn first aids to be able to act more confidently, skillfully, and willingly in cases of emergencies.
 
 So if we had first aid knowledges, we won't see the people losing their lives just because of injuries. There were many people who lost their lives just because of not getting First aid when they seriously need it. 
 
-#### A Red Cross survey showed a staggering 59% of deaths from injuries would have been preventable had first aid been given before the emergency services arrived. So having First aid knowledge can save many lives. It is worth learning.
+## A Red Cross survey showed a staggering 59% of deaths from injuries would have been preventable had first aid been given before the emergency services arrived. So having First aid knowledge can save many lives. It is worth learning.
 
 These days, most people including me don't use to pay attention to health related knowledges and reading health articles. Therefore, this app is born to notify you to study a first aid everyday. Thus, we commit learning something valuable on that day. This app is a remainder of what is really important: health.
 
